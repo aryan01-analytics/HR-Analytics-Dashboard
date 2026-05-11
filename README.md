@@ -175,9 +175,8 @@ To help an organisation improve employee performance and reduce attrition by cre
 
 ## 📬 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your.email@example.com
+- LinkedIn: www.linkedin.com/in/aryan-singh-bb07b1269
+- GitHub: https://github.com/aryan01-analytics
 
 ---
 
